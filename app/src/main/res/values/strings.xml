@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TestSocialNetwork</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_add">menu_add</string>
+    <string name="menu_clear">menu_clear</string>
+    <string name="settings">settings</string>
+    <string name="main">main</string>
+    <string name="favorite">favorite</string>
+    <string name="search">search</string>
+/*для всплывающего меню
+    <string name="item1">item 1</string>
+    <string name="item2">item 2</string>
+    <string name="new_menu_item_added">Menu item added</string>
+</resources>
